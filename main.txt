@@ -1,0 +1,7 @@
+q = """
+What techniques can geologists use to identify minerals in a rock sample, 
+and why is mineral identification important in geological studies?
+"""
+q2 = "what is a schist and what are some properties of this rock type."
+q3 = "How do geologists determine the age of rocks"
+q4 = "Describe how cross-sections are constructed from geological maps, and why are they useful for understanding subsurface geological structures?"

@@ -1,0 +1,13 @@
+2. Be a space Geologist
+we were inspired to work on this challenge because of the rapid growth in the world of technology, particularly in the world of Machine learning and Artificial intelligence. We believe Artificial intelligence, Large Language Models (LLMs) to be specific have the ability to translate how we view User Experience and interact with applications in general. 
+
+
+3. Name your solution, provide a tagline
+name: galaxy i35
+problem statement/solution statement: The day to day work routine of an average geologist comprises of working with a ton of earth data and visualizing these data. The problem comes with the cumbersome process of trying to access these data which might have so many constraint such location constraints, resource constraints or technical constraint to analyze these data. Our solution (PoC) introduces an intelligent way of identifying data and analyzing them by utilizing the technical depth of LLMs across various domains, to enable geologist answer questions and visualize raw data in numerous form without having the necessary technical knowledge of how to do so.
+gain/oppurtunity: 
+
+4. Describe your idea and how it works.
+user-experience: our platform provides a typical, but simplified version of chatgpt, with a textfield that allows users to ask geology related questions and get well detailed responses, as well as link to further resources such as learning videos and Pdfs. 
+
+how was nasa data helpful: we utilized a ton of nasa data and apis like the earthquake datasets, the atronomy picture of the day api etc to kick-off our PoC
